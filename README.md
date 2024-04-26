@@ -1,0 +1,142 @@
+# Mikado_Projects
+
+
+
+## PRJNA996630 Multifactorial Stress Combination 
+      SRA Study	tissue	treatment
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate+salinity
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate+salinity
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate+salinity
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate
+- [ ] SRP450502	flowers	Acidity+water deficit+low phosphate
+- [ ] SRP450502	flowers	Salinity+water deficit+low phosphate
+- [ ] SRP450502	flowers	Salinity+water deficit+low phosphate
+- [ ] SRP450502	flowers	Salinity+water deficit+low phosphate
+- [ ] SRP450502	flowers	Salinity+acidity+low phosphate
+- [ ] SRP450502	flowers	Salinity+acidity+low phosphate
+- [ ] SRP450502	flowers	Salinity+acidity+low phosphate
+- [ ] SRP450502	flowers	Salinity+acidity+water deficit
+- [ ] SRP450502	flowers	Salinity+acidity+water deficit
+- [ ] SRP450502	flowers	Salinity+acidity+water deficit
+- [ ] SRP450502	flowers	Low phosphate+water deficit
+- [ ] SRP450502	flowers	Low phosphate+water deficit
+- [ ] SRP450502	flowers	Low phosphate+water deficit
+- [ ] SRP450502	flowers	Acidity+low phosphate
+- [ ] SRP450502	flowers	Acidity+low phosphate
+- [ ] SRP450502	flowers	Acidity+low phosphate
+- [ ] SRP450502	flowers	Acidity+water deficit
+- [ ] SRP450502	flowers	Acidity+water deficit
+- [ ] SRP450502	flowers	Acidity+water deficit
+- [ ] SRP450502	flowers	Salinity+low phosphate
+- [ ] SRP450502	flowers	Salinity+low phosphate
+- [ ] SRP450502	flowers	Salinity+low phosphate
+- [ ] SRP450502	flowers	Salinity+water deficit
+- [ ] SRP450502	flowers	Salinity+water deficit
+- [ ] SRP450502	flowers	Salinity+water deficit
+- [ ] SRP450502	flowers	Salinity+acidity
+- [ ] SRP450502	flowers	Salinity+acidity
+- [ ] SRP450502	flowers	Salinity+acidity
+- [ ] SRP450502	flowers	Cadmium (300 uM CdCl2)
+- [ ] SRP450502	flowers	Cadmium (300 uM CdCl2)
+- [ ] SRP450502	flowers	Cadmium (300 uM CdCl2)
+- [ ] SRP450502	flowers	Water deficit (30% of the water available for transpiration)
+- [ ] SRP450502	flowers	Water deficit (30% of the water available for transpiration)
+- [ ] SRP450502	flowers	Water deficit (30% of the water available for transpiration)
+- [ ] SRP450502	flowers	Acidity (pH 4)
+- [ ] SRP450502	flowers	Acidity (pH 4)
+- [ ] SRP450502	flowers	Acidity (pH 4)
+- [ ] SRP450502	flowers	Low phosphate (phosphate concentration was reduced by 90%)
+- [ ] SRP450502	flowers	Low phosphate (phosphate concentration was reduced by 90%)
+- [ ] SRP450502	flowers	Low phosphate (phosphate concentration was reduced by 90%)
+- [ ] SRP450502	flowers	Salinity (15 mM NaCl)
+- [ ] SRP450502	flowers	Salinity (15 mM NaCl)
+- [ ] SRP450502	flowers	Salinity (15 mM NaCl)
+- [ ] SRP450502	flowers	No treatment
+- [ ] SRP450502	flowers	No treatment
+- [ ] SRP450502	flowers	No treatment
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate+salinity
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate+salinity
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate+salinity
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate
+- [ ] SRP450502	leaves	Acidity+water deficit+low phosphate
+- [ ] SRP450502	leaves	Salinity+water deficit+low phosphate
+- [ ] SRP450502	leaves	Salinity+water deficit+low phosphate
+- [ ] SRP450502	leaves	Salinity+water deficit+low phosphate
+- [ ] SRP450502	leaves	Salinity+acidity+low phosphate
+- [ ] SRP450502	leaves	Salinity+acidity+low phosphate
+- [ ] SRP450502	leaves	Salinity+acidity+low phosphate
+- [ ] SRP450502	leaves	Salinity+acidity+water deficit
+- [ ] SRP450502	leaves	Salinity+acidity+water deficit
+- [ ] SRP450502	leaves	Salinity+acidity+water deficit
+- [ ] SRP450502	leaves	Low phosphate+water deficit
+- [ ] SRP450502	leaves	Low phosphate+water deficit
+- [ ] SRP450502	leaves	Low phosphate+water deficit
+- [ ] SRP450502	leaves	Acidity+low phosphate
+- [ ] SRP450502	leaves	Acidity+low phosphate
+- [ ] SRP450502	leaves	Acidity+low phosphate
+- [ ] SRP450502	leaves	Acidity+water deficit
+- [ ] SRP450502	leaves	Acidity+water deficit
+- [ ] SRP450502	leaves	Acidity+water deficit
+- [ ] SRP450502	leaves	Salinity+low phosphate
+- [ ] SRP450502	leaves	Salinity+low phosphate
+- [ ] SRP450502	leaves	Salinity+low phosphate
+- [ ] SRP450502	leaves	Salinity+water deficit
+- [ ] SRP450502	leaves	Salinity+water deficit
+- [ ] SRP450502	leaves	Salinity+water deficit
+- [ ] SRP450502	leaves	Salinity+acidity
+- [ ] SRP450502	leaves	Salinity+acidity
+- [ ] SRP450502	leaves	Salinity+acidity
+- [ ] SRP450502	leaves	Cadmium (300 uM CdCl2)
+- [ ] SRP450502	leaves	Cadmium (300 uM CdCl2)
+- [ ] SRP450502	leaves	Cadmium (300 uM CdCl2)
+- [ ] SRP450502	leaves	Water deficit (30% of the water available for transpiration)
+- [ ] SRP450502	leaves	Water deficit (30% of the water available for transpiration)
+- [ ] SRP450502	leaves	Water deficit (30% of the water available for transpiration)
+- [ ] SRP450502	leaves	Acidity (pH 4)
+- [ ] SRP450502	leaves	Acidity (pH 4)
+- [ ] SRP450502	leaves	Acidity (pH 4)
+- [ ] SRP450502	leaves	Low phosphate (phosphate concentration was reduced by 90%)
+- [ ] SRP450502	leaves	Low phosphate (phosphate concentration was reduced by 90%)
+- [ ] SRP450502	leaves	Low phosphate (phosphate concentration was reduced by 90%)
+- [ ] SRP450502	leaves	Salinity (15 mM NaCl)
+- [ ] SRP450502	leaves	Salinity (15 mM NaCl)
+- [ ] SRP450502	leaves	Salinity (15 mM NaCl)
+- [ ] SRP450502	leaves	No treatment
+- [ ] SRP450502	leaves	No treatment
+- [ ] SRP450502	leaves	No treatment
+
+## PRJNA327272 gene expression following infestation with soybean aphids
+	    SRA Study	tissue	treatment
+- [ ] SRP077618	Leaf	control-no aphid infestation
+- [ ] SRP077618	Leaf	control-no aphid infestation
+- [ ] SRP077618	Leaf	48 hours after infestation
+- [ ] SRP077618	Leaf	48 hours after infestation
+- [ ] SRP077618	Leaf	control-no aphid infestation
+- [ ] SRP077618	Leaf	control-no aphid infestation
+- [ ] SRP077618	Leaf	control-no aphid infestation
+- [ ] SRP077618	Leaf	6 hours after infestation
+- [ ] SRP077618	Leaf	6 hours after infestation
+- [ ] SRP077618	Leaf	6 hours after infestation
+- [ ] SRP077618	Leaf	12 hours after infestation
+- [ ] SRP077618	Leaf	12 hours after infestation
+- [ ] SRP077618	Leaf	control-no aphid infestation
+- [ ] SRP077618	Leaf	12 hours after infestation
+- [ ] SRP077618	Leaf	48 hours after infestation
+- [ ] SRP077618	Leaf	48 hours after infestation
+- [ ] SRP077618	Leaf	48 hours after infestation
+- [ ] SRP077618	Leaf	6 hours after infestation
+- [ ] SRP077618	Leaf	6 hours after infestation
+- [ ] SRP077618	Leaf	6 hours after infestation
+- [ ] SRP077618	Leaf	12 hours after infestation
+- [ ] SRP077618	Leaf	12 hours after infestation
+- [ ] SRP077618	Leaf	12 hours after infestation
+- [ ] SRP077618	Leaf	48 hours after infestation
+
