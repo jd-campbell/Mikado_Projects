@@ -6,6 +6,11 @@
 - [ ] SRR25360829	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
 - [ ] SRR25360830	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
 - [ ] SRR25360831	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRR25360883	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRR25360884	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+- [ ] SRR25360885	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+
+
 - [ ] SRR25360832	flowers	Acidity+water deficit+low phosphate+salinity
 - [ ] SRR25360833	flowers	Acidity+water deficit+low phosphate+salinity
 - [ ] SRR25360834	flowers	Acidity+water deficit+low phosphate+salinity
@@ -57,9 +62,8 @@
 - [ ] SRR25360880	flowers	No treatment
 - [ ] SRR25360881	flowers	No treatment
 - [ ] SRR25360882	flowers	No treatment
-- [ ] SRR25360883	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
-- [ ] SRR25360884	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
-- [ ] SRR25360885	leaves	Acidity+water deficit+low phosphate+salinity+cadmium
+
+
 - [ ] SRR25360886	leaves	Acidity+water deficit+low phosphate+salinity
 - [ ] SRR25360887	leaves	Acidity+water deficit+low phosphate+salinity
 - [ ] SRR25360888	leaves	Acidity+water deficit+low phosphate+salinity
