@@ -20,7 +20,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360832	flowers	Acidity+water deficit+low phosphate+salinity
 - [ ] SRR25360833	flowers	Acidity+water deficit+low phosphate+salinity
@@ -42,7 +45,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360835	flowers	Acidity+water deficit+low phosphate
 - [ ] SRR25360836	flowers	Acidity+water deficit+low phosphate
@@ -64,7 +70,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360838	flowers	Salinity+water deficit+low phosphate
 - [ ] SRR25360839	flowers	Salinity+water deficit+low phosphate
@@ -86,7 +95,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360841	flowers	Salinity+acidity+low phosphate
 - [ ] SRR25360842	flowers	Salinity+acidity+low phosphate
@@ -108,7 +120,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360844	flowers	Salinity+acidity+water deficit
 - [ ] SRR25360845	flowers	Salinity+acidity+water deficit
@@ -130,7 +145,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360847	flowers	Low phosphate+water deficit
 - [ ] SRR25360848	flowers	Low phosphate+water deficit
@@ -152,7 +170,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360850	flowers	Acidity+low phosphate
 - [ ] SRR25360851	flowers	Acidity+low phosphate
@@ -174,7 +195,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360853	flowers	Acidity+water deficit
 - [ ] SRR25360854	flowers	Acidity+water deficit
@@ -196,7 +220,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360856	flowers	Salinity+low phosphate
 - [ ] SRR25360857	flowers	Salinity+low phosphate
@@ -218,7 +245,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360859	flowers	Salinity+water deficit
 - [ ] SRR25360860	flowers	Salinity+water deficit
@@ -240,7 +270,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360862	flowers	Salinity+acidity
 - [ ] SRR25360863	flowers	Salinity+acidity
@@ -262,7 +295,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360865	flowers	Cadmium (300 uM CdCl2)
 - [ ] SRR25360866	flowers	Cadmium (300 uM CdCl2)
@@ -284,7 +320,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360868	flowers	Water deficit (30% of the water available for transpiration)
 - [ ] SRR25360869	flowers	Water deficit (30% of the water available for transpiration)
@@ -306,7 +345,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360871	flowers	Acidity (pH 4)
 - [ ] SRR25360872	flowers	Acidity (pH 4)
@@ -328,7 +370,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360874	flowers	Low phosphate (phosphate concentration was reduced by 90%)
 - [ ] SRR25360875	flowers	Low phosphate (phosphate concentration was reduced by 90%)
@@ -350,7 +395,10 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
 
 - [ ] SRR25360877	flowers	Salinity (15 mM NaCl)
 - [ ] SRR25360878	flowers	Salinity (15 mM NaCl)
@@ -372,4 +420,7 @@
 > - [ ] Portcullis?
 
 **MIKADO**
-> - [ ] 
+> - [ ] Step 1
+> - [ ] Step 2
+> - [ ] Step 3
+> - [ ] Step 4
