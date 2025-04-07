@@ -6,3 +6,4 @@
 
 [PRJNA1245147](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1245147): Transcriptome sequencing data from soybean seeds
 
+[PRJNA1238074](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1238074): Transcriptome data of soybean under drought treatment
