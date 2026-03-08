@@ -1,6 +1,8 @@
 # RNA-Seq of stress and diseases
 
-[PRJNA996630](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA996630): Multifactorial Stress Combination 
+[PRJNA996630](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA996630): Multifactorial Stress Combination
+- Genotype: Magellan
+- Tissues: Flowers, Leaves
 
 [PRJNA767196](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767196): Cold Stress
 
