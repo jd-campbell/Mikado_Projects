@@ -11,8 +11,6 @@
 -  Published: 2021
 
 [PRJNA594515](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594515): 
-
-Transcriptional responses during Aphis glycines Matsumura infestation
 - 
 - Tissues: Leaf
 - 
