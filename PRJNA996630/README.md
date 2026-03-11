@@ -138,3 +138,88 @@ Combined phenotypic and transcriptomic analysis of soybean plants subjected to m
 - [ ] SRR25360931	leaves	Salinity (15 mM NaCl)
 - [ ] SRR25360932	leaves	Salinity (15 mM NaCl)
 - [ ] SRR25360933	leaves	Salinity (15 mM NaCl)
+
+## Data Anaylsis
+### PREP DATA
+- [ ] Download data
+- [ ] Trim reads & concatenate read files into groups
+
+
+#### Wm82.gnm6
+- [ ] Align reads to gnm / generate BAM file
+- [ ] Cufflinks?
+- [ ] CLASS2?
+- [ ] Strawberry?
+- [ ] StringTie?
+- [ ] Portcullis?
+##### MIKADO  
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+-----
+#### Wm82.gnm5
+- [ ] Align reads to gnm / generate BAM file
+- [ ] Cufflinks?
+- [ ] CLASS2?
+- [ ] Strawberry?
+- [ ] StringTie?
+- [ ] Portcullis?
+##### MIKADO  
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+-----
+#### Wm82.gnm4
+- [ ] Align reads to gnm / generate BAM file
+- [ ] Cufflinks?
+- [ ] CLASS2?
+- [ ] Strawberry?
+- [ ] StringTie?
+- [ ] Portcullis?
+##### MIKADO  
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+-----
+#### Lee.gnm3
+- [ ] Align reads to gnm / generate BAM file
+- [ ] Cufflinks?
+- [ ] CLASS2?
+- [ ] Strawberry?
+- [ ] StringTie?
+- [ ] Portcullis?
+##### MIKADO  
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+-----
+#### FiskebyIII.gnm1
+- [ ] Align reads to gnm / generate BAM file
+- [ ] Cufflinks?
+- [ ] CLASS2?
+- [ ] Strawberry?
+- [ ] StringTie?
+- [ ] Portcullis?
+##### MIKADO  
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+-----
+#### Zh13.gnm2
+- [ ] Align reads to gnm / generate BAM file
+- [ ] Cufflinks?
+- [ ] CLASS2?
+- [ ] Strawberry?
+- [ ] StringTie?
+- [ ] Portcullis?
+##### MIKADO  
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+-----
