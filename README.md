@@ -10,9 +10,10 @@
 -  Tissues: Leaf
 -  Published: 2021
 
-[PRJNA266690](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA266690): Transcriptome analysis of response to common cutworm feeding
-
 [PRJNA594515](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594515): Transcriptional responses during Aphis glycines Matsumura infestation
+- 
+- Tissues: Leaf
+- 
 
 [PRJNA1238074](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1238074): Transcriptome data of soybean under drought treatment
 
