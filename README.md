@@ -10,8 +10,8 @@
 -  Tissues: Leaf
 -  Published: 2021
 
-[PRJNA594515](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594515): 
-- 
+PRJNA594515 
+
 - Tissues: Leaf
 - 
 
