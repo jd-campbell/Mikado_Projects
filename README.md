@@ -2,9 +2,11 @@
 
 [PRJNA996630](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA996630): Multifactorial Stress Combination
 - Genotype: Magellan
-- Tissues: Flowers, Leaves
+- Tissues: Flowers, Leaf
 
 [PRJNA767196](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767196): Cold Stress
+-  No genotype info
+-  Tissues: Leaf
 
 [PRJNA327272](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA327272): Gene expression following infestation with soybean aphids
 
