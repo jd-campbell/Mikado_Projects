@@ -3,6 +3,7 @@
 [PRJNA996630](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA996630): Multifactorial Stress Combination
 - Genotype: Magellan
 - Tissues: Flowers, Leaf
+- Published: 2023
 
 [PRJNA767196](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767196): Cold Stress
 -  No genotype info
