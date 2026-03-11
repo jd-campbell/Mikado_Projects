@@ -10,8 +10,6 @@
 -  Tissues: Leaf
 -  Published: 2021
 
-[PRJNA327272](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA327272): Gene expression following infestation with soybean aphids
-
 [PRJNA266690](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA266690): Transcriptome analysis of response to common cutworm feeding
 
 [PRJNA594515](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594515): Transcriptional responses during Aphis glycines Matsumura infestation
