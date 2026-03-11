@@ -1,8 +1,8 @@
 ## [PRJNA996630](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA996630)
 
-Combined phenotypic and transcriptomic analysis of soybean plants subjected to multifactorial stress combination
+Combined phenotypic and transcriptomic analysis of soybean plants subjected to multifactorial stress combination - five different stresses (water deficit, salinity, low phosphate, acidity, and cadmium)
 
-
+## SRA
 - [ ] SRR25360829	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
 - [ ] SRR25360830	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
 - [ ] SRR25360831	flowers	Acidity+water deficit+low phosphate+salinity+cadmium
