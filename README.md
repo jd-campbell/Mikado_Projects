@@ -36,7 +36,11 @@
 - Published: 2021
 - DOI
 
-[PRJNA813355](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA813355): Drought transcriptome data of soybean 
+[PRJNA813355](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA813355): Drought transcriptome data of soybean
+- Genotypes: Jindou 21 (JD, drought-tolerance) & Tianlong No.1 (N1, drought-sensitive)
+- Tissues: whole seedling
+- Published: 2022
+- DOI
 
 [PRJNA852689](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA852689): Transcriptomic analysis of soybean subjected to drought stress
 
