@@ -23,7 +23,12 @@
 - Published: 2025
 - DOI
 
-[PRJNA641330](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA641330): Transcriptome data of soybean under drought treatment
+> [PRJNA641330](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA641330): Transcriptome data of soybean under drought treatment
+> **NOTE** Not sure if this is worth it with only 3 SRA without RNAi treatment
+> - Genotypes:
+> - Tissues: Root
+> - Published: 2020
+> - DOI
 
 [PRJNA632753](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA632753): Transcriptomic response of soybean to water-stress conditions
 
