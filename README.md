@@ -9,12 +9,13 @@
 -  No genotype info
 -  Tissues: Leaf
 -  Published: 2021
+-  [DOI](https://doi.org/10.1111/jipb.13357)
 
 [PRJNA594515](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594515): transcriptional responses during Aphis glycines Matsumura infestation 
 - Genotypes: Dongnong47 (susceptible); P203 (antixenotic); P746 (antibiotic)
 - Tissues: Leaf
 - Published: 2020
-- DOI: https://doi.org/10.3390/ijms21155191
+- [DOI](https://doi.org/10.3390/ijms21155191)
 
 [PRJNA1238074](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1238074): Transcriptome data of soybean under drought treatment
 
