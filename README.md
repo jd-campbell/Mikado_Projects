@@ -17,6 +17,12 @@
 - Published: 2020
 - [DOI](https://doi.org/10.3390/ijms21155191)
 
+[PRJNA1238074](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1238074): Transcriptome data of soybean under drought treatment
+- Genotypes: Wm82 (from China?)
+- Tissues: root
+- Published: 2025
+- DOI
+
 [PRJNA641330](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA641330): Transcriptome data of soybean under drought treatment
 
 [PRJNA632753](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA632753): Transcriptomic response of soybean to water-stress conditions
